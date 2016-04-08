@@ -1,6 +1,9 @@
-leaflet-intro
-=============
+crash-tour-of-leaflet
+====================
+A 5 min crash tour for fellow students to get a glimpse of the leaflet library during our evening lightning rounds! 
 
-Leaflet tutorial for Maptime Boston. This is intended to be a fairly verbose, guided walkthrough of some basic Leaflet maps, walking a line somewhere in between dumping code snippets and over-explaining every little piece of JavaScript.
+Presentation can be viewed online here:  [emilyashley.github.io/crash-tour-leaflet/presi](http://emilyashley.github.io/crash-tour-leaflet/presi)
 
-[http://maptimeboston.github.io/leaflet-intro](http://maptimeboston.github.io/leaflet-intro)
+
+Made with [@tmcw](https://github.com/tmcw)'s [big](http://macwright.org/big/) presentation software. Thanks to the worldwide #maptime family!
+Modified and shortened with love from [@maptimeBoston's](https://github.com/maptimeBoston) bad-ass tutorial [Leaflet Intro](http://maptimeboston.github.io/leaflet-intro/).
